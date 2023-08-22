@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBuscarProductos", "WebApiBuscarProductos\WebApiBuscarProductos.csproj", "{E42DEADC-14AC-4046-BAE2-1406087D1527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApiBuscarProductos.Application", "WebApiBuscarProductos.Application", "{DB196A64-2F58-4B7A-A373-4401AC13D55B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApiBuscarProductos.API", "WebApiBuscarProductos.API", "{1C04180C-866D-45E1-9FE6-650CC4F60EF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApiBuscarProductos.Domain", "WebApiBuscarProductos.Domain", "{D0FD4B62-F7C2-46F5-9AC2-56E80D422E20}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApiBuscarProductos.Infraesrtucture", "WebApiBuscarProductos.Infraesrtucture", "{488EF294-CFEC-4ECF-BF78-9F85781F9A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBuscarProductos.Application", "WebApiBuscarProductos.Application\WebApiBuscarProductos.Application.csproj", "{B005870F-5940-4642-B449-3D1F060D9AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBuscarProductos.Domain", "WebApiBuscarProductos.Domain\WebApiBuscarProductos.Domain.csproj", "{FB0228A8-A5AC-40FE-ABAC-2EB37E0E9BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBuscarProductos.Infraestructure", "WebApiBuscarProductos.Infraestructure\WebApiBuscarProductos.Infraestructure.csproj", "{3BBC1254-D049-4DC5-9DC4-E1395207EA3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42DEADC-14AC-4046-BAE2-1406087D1527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42DEADC-14AC-4046-BAE2-1406087D1527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42DEADC-14AC-4046-BAE2-1406087D1527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42DEADC-14AC-4046-BAE2-1406087D1527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B005870F-5940-4642-B449-3D1F060D9AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B005870F-5940-4642-B449-3D1F060D9AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B005870F-5940-4642-B449-3D1F060D9AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B005870F-5940-4642-B449-3D1F060D9AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0228A8-A5AC-40FE-ABAC-2EB37E0E9BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0228A8-A5AC-40FE-ABAC-2EB37E0E9BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0228A8-A5AC-40FE-ABAC-2EB37E0E9BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0228A8-A5AC-40FE-ABAC-2EB37E0E9BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBC1254-D049-4DC5-9DC4-E1395207EA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBC1254-D049-4DC5-9DC4-E1395207EA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBC1254-D049-4DC5-9DC4-E1395207EA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBC1254-D049-4DC5-9DC4-E1395207EA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E42DEADC-14AC-4046-BAE2-1406087D1527} = {1C04180C-866D-45E1-9FE6-650CC4F60EF0}
+		{B005870F-5940-4642-B449-3D1F060D9AFF} = {DB196A64-2F58-4B7A-A373-4401AC13D55B}
+		{FB0228A8-A5AC-40FE-ABAC-2EB37E0E9BF5} = {D0FD4B62-F7C2-46F5-9AC2-56E80D422E20}
+		{3BBC1254-D049-4DC5-9DC4-E1395207EA3C} = {488EF294-CFEC-4ECF-BF78-9F85781F9A0A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0D40C7-3BF3-40DA-A5A0-9FFA0DE0111B}
+	EndGlobalSection
+EndGlobal

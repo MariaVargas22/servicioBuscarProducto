@@ -1,0 +1,12 @@
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\bin\Debug\net6.0\WebApiBuscarProductos.Domain.deps.json
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\bin\Debug\net6.0\WebApiBuscarProductos.Domain.dll
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\bin\Debug\net6.0\WebApiBuscarProductos.Domain.pdb
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\WebApiBuscarProductos.Domain.csproj.AssemblyReference.cache
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\WebApiBuscarProductos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\WebApiBuscarProductos.Domain.AssemblyInfoInputs.cache
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\WebApiBuscarProductos.Domain.AssemblyInfo.cs
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\WebApiBuscarProductos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\WebApiBuscarProductos.Domain.dll
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\refint\WebApiBuscarProductos.Domain.dll
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\WebApiBuscarProductos.Domain.pdb
+C:\Users\Maria\Downloads\Ejercicios\.net\WebApiBuscarProductos\WebApiBuscarProductos.Domain\obj\Debug\net6.0\ref\WebApiBuscarProductos.Domain.dll
